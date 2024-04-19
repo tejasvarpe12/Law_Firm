@@ -1,0 +1,21 @@
+/* Igstudio */
+.navbar{
+position: absolute;
+background-color: #111;
+justify-content: space-between;
+width:100%;
+padding: 10px;
+color: white
+}
+
+.navbar-brand{
+    margin-right: 350px;
+}
+
+.navbar a{
+    color: inherit;
+}
+
+.navbar a:hover{
+    color:cadetblue
+}
